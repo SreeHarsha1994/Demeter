@@ -3,6 +3,7 @@ package JavaConcepts;
 public class Cosnd {
 	public static void main(String[] args) 
 	{
+		System.out.println("Hello World");
 		int[] arr= {40,60,30,10,50};
 		for(int i=0;i<arr.length;i++)
 		{
@@ -17,6 +18,7 @@ public class Cosnd {
 			}
 		}
 		System.out.println("this is first maximum "+arr[0]);
+		
 		}
 	}
 
